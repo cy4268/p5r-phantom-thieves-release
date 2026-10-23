@@ -4,7 +4,7 @@
 
 ## 下载与使用
 
-1. 下载 [`cards/心之怪盗团-0.2.0.card.json`](cards/心之怪盗团-0.2.0.card.json)，在 SillyTavern 里导入。
+1. 下载 [`cards/心之怪盗团-0.2.1.card.json`](cards/心之怪盗团-0.2.1.card.json)，在 SillyTavern 里导入。
 2. 导入时选择导入内嵌世界书，并启用卡内脚本（需要酒馆助手扩展）。
 3. 点击输入框上方的「进入怪盗团」开始游戏。
 
@@ -12,6 +12,7 @@
 
 ## 版本
 
+- `0.2.1`：开始新游戏面板改成新玩家看得懂的说法。程序地址：`https://cdn.jsdelivr.net/gh/cy4268/p5r-phantom-thieves-release@0.2.1/p5r.js`
 - `0.2.0`：鸭志田篇测试版，4 月 9 日到 5 月 2 日鸭志田公开认罪。程序地址：`https://cdn.jsdelivr.net/gh/cy4268/p5r-phantom-thieves-release@0.2.0/p5r.js`
 - `0.1.0`：首版，序章到鸭志田城堡第一场战斗。程序地址：`https://cdn.jsdelivr.net/gh/cy4268/p5r-phantom-thieves-release@0.1.0/p5r.js`
 
