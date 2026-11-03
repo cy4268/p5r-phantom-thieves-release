@@ -2,11 +2,11 @@
 
 《女神异闻录5 皇家版》同人角色卡（SillyTavern）的发布仓库。这里只放构建好的游戏程序、图片和角色卡文件，卡里的入口脚本会通过 jsDelivr 按版本号从这里加载。
 
-![心之怪盗团卡面](cards/心之怪盗团-0.3.4.png)
+![心之怪盗团卡面](cards/心之怪盗团-0.3.5.png)
 
 ## 下载与使用
 
-1. 下载 [PNG角色卡原文件](https://raw.githubusercontent.com/cy4268/p5r-phantom-thieves-release/main/cards/%E5%BF%83%E4%B9%8B%E6%80%AA%E7%9B%97%E5%9B%A2-0.3.4.png)，在 SillyTavern 里导入；也保留[同内容JSON](cards/心之怪盗团-0.3.4.card.json)。请保存原文件，截图或平台压缩后的图片可能丢失卡片数据。
+1. 下载 [PNG角色卡原文件](https://raw.githubusercontent.com/cy4268/p5r-phantom-thieves-release/main/cards/%E5%BF%83%E4%B9%8B%E6%80%AA%E7%9B%97%E5%9B%A2-0.3.5.png)，在 SillyTavern 里导入；也保留[同内容JSON](cards/心之怪盗团-0.3.5.card.json)。请保存原文件，截图或平台压缩后的图片可能丢失卡片数据。
 2. 导入时选择导入内嵌世界书，并启用卡内脚本（需要酒馆助手扩展）。
 3. 点击输入框上方的「进入怪盗团」开始游戏。
 
@@ -14,6 +14,7 @@
 
 ## 版本
 
+- `0.3.5`：全书与合体结果改为带立绘的详情布局，显示登记技能及下一项习得技能，修正重新登记后的技能说明残留；补充东京地图地点介绍并修复弹窗遮挡；COOP页显示下一阶关系点与后续能力。世界书和存档格式沿用0.3.4。程序地址：`https://cdn.jsdelivr.net/gh/cy4268/p5r-phantom-thieves-release@0.3.5/p5r.js`
 - `0.3.4`：更新剧情与行动篇幅、对白名字前缀和正文收尾规则，补清“抵达东京”的熟客与阁楼谈话；103条内嵌世界书，程序、图片及玩法沿用0.3.3。程序地址：`https://cdn.jsdelivr.net/gh/cy4268/p5r-phantom-thieves-release@0.3.4/p5r.js`
 - `0.3.3`：加入四人普通枪械、购枪换装、逐发选目标与弹药显示，修正结束射击的键盘操作；更新队友战斗站姿及枪击世界书说明。程序地址：`https://cdn.jsdelivr.net/gh/cy4268/p5r-phantom-thieves-release@0.3.3/p5r.js`
 - `0.3.2`：接入8首场景BGM及原作循环点，手机内可跟随场景／手动选曲／暂停；保留现有FLAC音质。程序地址：`https://cdn.jsdelivr.net/gh/cy4268/p5r-phantom-thieves-release@0.3.2/p5r.js`
@@ -28,7 +29,7 @@
 
 ## 升级与音乐
 
-从公开版0.2.2或更早版本升级到0.3.4，请导入新卡和内嵌世界书后新建聊天。旧聊天继续使用[0.2.2角色卡](https://github.com/cy4268/p5r-phantom-thieves-release/blob/0.2.2/cards/心之怪盗团-0.2.2.card.json)及原版本程序，不要直接覆盖旧聊天进度。更新已有卡之前，请先备份卡片和聊天。
+从公开版0.2.2或更早版本升级到0.3.5，请导入新卡和内嵌世界书后新建聊天。旧聊天继续使用[0.2.2角色卡](https://github.com/cy4268/p5r-phantom-thieves-release/blob/0.2.2/cards/心之怪盗团-0.2.2.card.json)及原版本程序，不要直接覆盖旧聊天进度。更新已有卡之前，请先备份卡片和聊天。
 
 0.3.0至0.3.2已有存档不会补发初始枪：可在军品店购买并从队伍页装备，下一场战斗生效。新开局按剧情发放初始枪。射击采用本卡简化：四人逐发单目标，可以换目标或结束射击；新击倒接1 MORE，每场战斗补满弹药。
 
